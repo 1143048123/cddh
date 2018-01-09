@@ -16,5 +16,3 @@ Docker::Nginx->Uwsgi->Flask
 - [ ] 好用的网页版
 - [ ] 群聊机器人版本
 
-## 捐赠
-ETH：0x4fbE91279EDFAa6a477a20BdDD6606457ed5B856
